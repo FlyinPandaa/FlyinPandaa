@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @FlyinPandaa
-- 👀 I’m interested in Video Games (MMORPGs(Black Desert Online), Mobas(League of Legends), and some FPS games(Valorants). Also enjoy listening to K-pop, watching K-dramas, reading mangas/manhwas/manhuas, and the ocassional anime.
-- 🌱 I’m currently an undergraduate student at UC Merced, and learning C++ and Python
+- 👀 My hobbies is: playing Video Games (MMORPGs(Black Desert Online), Mobas(League of Legends), and some FPS games(Valorants). Also enjoy listening to K-pop, watching K-dramas, reading mangas/manhwas/manhuas, and the ocassional anime.
+- I'm interested in learning more about Web Development (both front and back end), IOS Development, C++, and Python.
+- 🌱 I’m currently an undergraduate student majoring in CS at UC Merced.
 - 📫 How to reach me: 
 Email: MikeFang456@gmail.com
 

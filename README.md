@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flyinpandaa&label=Profile%20views&color=0e75b6&style=flat" alt="flyinpandaa" /> </p>
 
-- 🔭 I’m currently working on **flash cards**
-
 - 🌱 I’m currently learning **Complete Web Design: from Figma to Webflow to Freelancing and the MERN stack**
 
 - 👨‍💻 All of my projects are available at [portfolio](portfolio)

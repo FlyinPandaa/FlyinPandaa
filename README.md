@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Complete Web Design: from Figma to Webflow to Freelancing and the MERN stack**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 👨‍💻 My portfolio projects are available at https://mfangs.com/#portfolio
 
 - 💬 Ask me about **HTML 5 and CSS**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p> www.linkedin.com/in/michael-fang-715a35149 </p>
+<p> www.linkedin.com/in/michael-d-fang </p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

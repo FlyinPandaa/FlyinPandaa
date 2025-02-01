@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flyinpandaa&label=Profile%20views&color=0e75b6&style=flat" alt="flyinpandaa" /> </p>
 
-- 🌱 I’m currently learning **Complete Web Design: from Figma to Webflow to Freelancing and the MERN stack**
+- 🌱 I’m currently learning **The Complete Full-Stack Web-Development Bootcamp (2024)**
 
 - 👨‍💻 My portfolio projects are available at https://mfangs.com/#portfolio
 
